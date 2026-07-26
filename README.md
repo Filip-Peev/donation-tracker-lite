@@ -23,7 +23,7 @@ A web app for tracking donated equipment (laptops, routers, tablets, etc.) and v
 2. Open `http://localhost/donation-tracker-lite/` in your browser
 3. If not installed, you'll be automatically redirected to the installer — choose a database path and create an admin password
 4. The installer creates the SQLite database file and a `.env` config file
-5. Done — you'll be redirected to the login page
+5. Done - you'll be redirected to the login page
 6. If already installed and logged in, you go straight to the admin dashboard
 7. If already installed but not logged in, you see the landing page with a login button
 
