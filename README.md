@@ -1,6 +1,6 @@
 # 
 
-This is a lighter version of the original web app [Donation Tracker](https://example.com), made to work with `sqlite` instead of `mysql/mariadb` for easier setup.
+This is a lighter version of the original web app [Donation Tracker](https://github.com/Filip-Peev/donation-tracker), made to work with `sqlite` instead of `mysql/mariadb` for easier setup.
 
 # Donation Tracker
 
